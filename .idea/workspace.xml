@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd4a10b0-782d-4d80-a6c7-1681e5ad71a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/.idea/CodeTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_2016년.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_3진법 뒤집기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_k번째수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_x만큼 간격이 있는 n개의 숫자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_가운데 글자 가져오기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_같은 숫자는 싫어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_나누어 떨어지는 숫자 배열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_내적.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_다트 게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_두 개 뽑아서 더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_두 정수 사이의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_로또의 최고 순위와 최저 순위.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_모의고사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_문자열 내 p와 y의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_문자열 내 마음대로 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_문자열 내림차순으로 배열하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_문자열 다루기 기본.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_문자열을 정수로 바꾸기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_복서 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_부족한 금액 계산하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_비밀지도.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_상호평가.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_서울에서 김서방 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_소수만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_소수찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_수박수박수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_숫자 문자열과 영단어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_시저암호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_신규 아이디 추천.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_실패율.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_약수의 개수와 덧셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_약수의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_없는 숫자 더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_예산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_완주하지 못한 선수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_음양더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_이상한 문자 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_자릿수 더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_자연수 뒤집어 배열로 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_정수 내림차순으로 배치하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_정수 제곱근 판별.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_제일 작은 수 제거하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_직사각형 별찍기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_직업군 추천하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_짝수와 홀수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_체육복.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_최대공약수와 최소공배수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_최소직사각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_콜라츠 추측.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_크레인 인형뽑기 게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_키패드 누르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_평균구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_폰켓몬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_하샤드 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_핸드폰 번호 가리기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv1/lv1_행렬의 덧셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_JadenCase 문자열 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_N개의 최소공배수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_n^2 배열 자르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_n진수 게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_교점에 별 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_뉴스 클러스터링.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_다리를 지나는 트럭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_다음 큰 숫자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_모음사전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_방금그곡.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_숫자의 표현.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_압축.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_영어 끝말잇기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_올바른 괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_이진 변환 반복하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_주식가격.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_최댓값과 최솟값.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_최솟값 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_카펫.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_캐시.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_피로도.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_피보나치 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lv2/lv2_행렬의 곱셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/정규표현식/lv1_다트 게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/정규표현식/lv1_신규 아이디 추천.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/정규표현식/lv2_뉴스 클러스터링.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/정규표현식/lv2_방금그곡.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="240aBtQAChdOQl0tmuAJRJcSnai" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.3040_백설 공주와 일곱 난쟁이">
+    <configuration name="10991_별찍기-16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/10991_별찍기-16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2460_지능형 기차-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/2460_지능형 기차-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2577_숫자의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/2577_숫자의 개수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3040_백설 공주와 일곱 난쟁이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/3040_백설 공주와 일곱 난쟁이.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3040_백설 공주와 일곱 난쟁이" />
+        <item itemvalue="Python.2577_숫자의 개수" />
+        <item itemvalue="Python.2460_지능형 기차-2" />
+        <item itemvalue="Python.10991_별찍기-16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd4a10b0-782d-4d80-a6c7-1681e5ad71a3" name="Changes" comment="" />
+      <created>1642769826763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642769826763</updated>
+      <workItem from="1642769828041" duration="5655000" />
+      <workItem from="1642921858430" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodeTest$3040____.coverage" NAME="3040_백설 공주와 일곱 난쟁이 Coverage Results" MODIFIED="1642922506076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/CodeTest$10991__16.coverage" NAME="10991_별찍기-16 Coverage Results" MODIFIED="1642769985538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/CodeTest$2460___2.coverage" NAME="2460_지능형 기차-2 Coverage Results" MODIFIED="1642773305380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/CodeTest$2577__.coverage" NAME="2577_숫자의 개수 Coverage Results" MODIFIED="1642775623068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+  </component>
+</project>
