@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd4a10b0-782d-4d80-a6c7-1681e5ad71a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/2693_N번쨰 큰 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/2693_N번쨰 큰 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Lv1/lv1_체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Lv1/lv1_체육복.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.lv2_구명보트">
+  <component name="RunManager" selected="Python.lv2_2개 이하로 다른 비트">
     <configuration name="lv2_괄호 회전하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +67,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\git\CodeTest\programmers\Lv2\lv2_2개 이하로 다른 비트.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Lv2/lv2_2개 이하로 다른 비트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +89,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Lv2/lv2_2개 이하로 다른 비트.py" />
+      <option name="SCRIPT_NAME" value="D:\git\CodeTest\programmers\Lv2\lv2_2개 이하로 다른 비트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +166,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lv2_구명보트" />
         <item itemvalue="Python.lv2_괄호 회전하기" />
         <item itemvalue="Python.lv2_위장" />
         <item itemvalue="Python.lv2_2개 이하로 다른 비트" />
@@ -202,6 +199,7 @@
       <workItem from="1646248769321" duration="1078000" />
       <workItem from="1646457242915" duration="1254000" />
       <workItem from="1647560532714" duration="8784000" />
+      <workItem from="1648084141107" duration="319000" />
     </task>
     <servers />
   </component>
