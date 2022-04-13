@@ -31,7 +31,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.lv2_프린터">
+  <component name="RunManager" selected="Python.lv2_2개 이하로 다른 비트">
     <configuration name="lv2_괄호 회전하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +89,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Lv2/lv2_2개 이하로 다른 비트.py" />
+      <option name="SCRIPT_NAME" value="D:\git\CodeTest\programmers\Lv2\lv2_2개 이하로 다른 비트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +111,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\git\CodeTest\programmers\Lv2\lv2_2개 이하로 다른 비트.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Lv2/lv2_2개 이하로 다른 비트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +188,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lv2_프린터" />
         <item itemvalue="Python.lv2_가장 큰 수" />
         <item itemvalue="Python.lv2_괄호 회전하기" />
         <item itemvalue="Python.lv2_위장" />
@@ -224,7 +223,9 @@
       <workItem from="1647560532714" duration="8784000" />
       <workItem from="1648084141107" duration="383000" />
       <workItem from="1648433180151" duration="2026000" />
-      <workItem from="1648714584113" duration="2420000" />
+      <workItem from="1648714584113" duration="2479000" />
+      <workItem from="1649053947026" duration="3000" />
+      <workItem from="1649592117812" duration="1000" />
     </task>
     <servers />
   </component>
