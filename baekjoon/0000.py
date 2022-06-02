@@ -7,6 +7,8 @@ def readlines(count):
         result.append(*stdin.readline().split())
     return result
 
+# ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 from sys import stdin
 
 input = stdin.readline
