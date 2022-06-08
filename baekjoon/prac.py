@@ -112,16 +112,3 @@
 # print(graph)
 # bfs(v)
 
-
-from sys import stdin
-
-input = stdin.readline
-n = int(input())
-graph = [[0] * n for _ in range(n)]
-for _ in range(int(input())):
-    a, b = map(int, input().split())
-    graph[a][b] = graph[b][a] = 1
-    connect = [0] * n
-
-def dfs(i):
-    

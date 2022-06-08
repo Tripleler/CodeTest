@@ -203,7 +203,7 @@
       <workItem from="1654450935374" duration="4580000" />
       <workItem from="1654490215134" duration="26690000" />
       <workItem from="1654569037471" duration="8901000" />
-      <workItem from="1654662835413" duration="14769000" />
+      <workItem from="1654662835413" duration="15898000" />
     </task>
     <servers />
   </component>
@@ -268,7 +268,7 @@
     <SUITE FILE_PATH="coverage/CodeTest$10872_.coverage" NAME="10872_팩토리얼 Coverage Results" MODIFIED="1654512935350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/재귀" />
     <SUITE FILE_PATH="coverage/CodeTest$1152__.coverage" NAME="1152_단어의 개수 Coverage Results" MODIFIED="1654061905032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
     <SUITE FILE_PATH="coverage/CodeTest$1436__.coverage" NAME="1436_영화감독 숌 Coverage Results" MODIFIED="1654578285601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/브루트 포스" />
-    <SUITE FILE_PATH="coverage/CodeTest$prac.coverage" NAME="prac Coverage Results" MODIFIED="1654698370457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/CodeTest$prac.coverage" NAME="prac Coverage Results" MODIFIED="1654713742155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
     <SUITE FILE_PATH="coverage/CodeTest$10757___AB.coverage" NAME="10757_큰 수 A＋B Coverage Results" MODIFIED="1654173739930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기본 수학1" />
     <SUITE FILE_PATH="coverage/CodeTest$10870___5.coverage" NAME="10870_피보나치 수 5 Coverage Results" MODIFIED="1654515658375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/재귀" />
     <SUITE FILE_PATH="coverage/CodeTest$11720__.coverage" NAME="11720_숫자의 합 Coverage Results" MODIFIED="1654055767284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
