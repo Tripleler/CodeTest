@@ -112,3 +112,66 @@
 # print(graph)
 # bfs(v)
 
+# n = 9
+# s = '***\n* *\n***'
+# i = 1
+# while n > 1:
+#     space = '   ' * i
+#     size = (len(s) - 2) // 3
+#     l = []
+#     i = 0
+#     for _ in range(3):
+#         l.append(s[i: i + size])
+#         i += size + 1
+#     print(l)
+#     s = [l[0] * 3, l[1] * 3, l[2] * 3, l[0] + space + l[0], l[1] + space + l[1], l[2] + space + l[2], l[0] * 3, l[1] * 3, l[2] * 3]
+#     s = '\n'.join(s)
+#     i *= 3
+#     n //= 3
+# print(s)
+
+
+from sys import stdin
+
+
+def distance(i, j):
+    i = abs(i)
+    j = abs(j)
+    d = i + j
+    if d == 1:
+        return 3
+    elif d == 2:
+        return 2
+    elif d == 3:
+        if i and j:
+            return 1
+        else:
+            return 3
+    elif d == 4:
+        return 2
+    elif d == 5:
+        return 3
+    else:  # d > 5
+        if i > 2 * j:
+            return distance(i - 4, j) + 2
+        elif j > 2 * i:
+            return distance(i, j - 4) + 2
+        elif i >= j:
+            return distance(i - 2, j - 1) + 1
+        elif j > i:
+            return distance(i - 1, j - 2) + 1
+
+
+input = stdin.readline
+for _ in range(int(input())):
+    l = int(input())
+    a, b = map(int, input().split())
+    x, y = map(int, input().split())
+    dx = abs(x - a)
+    dy = abs(y - b)
+    if not dx + dy:
+        print(0)
+    elif dx == dy == 2:
+        print(4)
+    else:
+        print(distance(dx, dy))
