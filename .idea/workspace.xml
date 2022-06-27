@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd4a10b0-782d-4d80-a6c7-1681e5ad71a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/prac.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +43,8 @@
       <recent name="D:\git\CodeTest\baekjoon\단계별로 풀어보기\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11478_서로 다른 부분 문자열의 개수">
-    <configuration name="10816_숫자 카드 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.prac">
+    <configuration name="1002_터렛" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,12 +52,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵/10816_숫자 카드 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1/1002_터렛.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11478_서로 다른 부분 문자열의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1004_어린 왕자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵/11478_서로 다른 부분 문자열의 개수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1/1004_어린 왕자.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1269_대칭 차집합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1358_하키" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵/1269_대칭 차집합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1/1358_하키.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1764_듣보잡" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2477_참외밭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵/1764_듣보잡.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1/2477_참외밭.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lv2_기능개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Lv2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Lv2/lv2_기능개발.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/prac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11478_서로 다른 부분 문자열의 개수" />
-        <item itemvalue="Python.1269_대칭 차집합" />
-        <item itemvalue="Python.1764_듣보잡" />
-        <item itemvalue="Python.10816_숫자 카드 2" />
-        <item itemvalue="Python.lv2_기능개발" />
+        <item itemvalue="Python.prac" />
+        <item itemvalue="Python.1004_어린 왕자" />
+        <item itemvalue="Python.1002_터렛" />
+        <item itemvalue="Python.2477_참외밭" />
+        <item itemvalue="Python.1358_하키" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,8 @@
       <workItem from="1655554775502" duration="4035000" />
       <workItem from="1656164150119" duration="3217000" />
       <workItem from="1656168812918" duration="127000" />
-      <workItem from="1656216670719" duration="1969000" />
+      <workItem from="1656216670719" duration="2706000" />
+      <workItem from="1656298498113" duration="8418000" />
     </task>
     <servers />
   </component>
@@ -239,6 +240,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodingTest$2477_.coverage" NAME="2477_참외밭 Coverage Results" MODIFIED="1656304073137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
     <SUITE FILE_PATH="coverage/CodeTest$2908_.coverage" NAME="2908_상수 Coverage Results" MODIFIED="1654057525639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
     <SUITE FILE_PATH="coverage/CodeTest$1697_.coverage" NAME="1697_숨바꼭질 Coverage Results" MODIFIED="1654784004658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
     <SUITE FILE_PATH="coverage/CodeTest$2675__.coverage" NAME="2675_문자열 반복 Coverage Results" MODIFIED="1654056729154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
@@ -268,6 +270,7 @@
     <SUITE FILE_PATH="coverage/CodeTest$10816___2.coverage" NAME="10816_숫자 카드 2 Coverage Results" MODIFIED="1656166812648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵" />
     <SUITE FILE_PATH="coverage/CodeTest$2447_____10.coverage" NAME="2447_별 찍기 - 10 Coverage Results" MODIFIED="1654518876417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/재귀" />
     <SUITE FILE_PATH="coverage/CodeTest$18870__.coverage" NAME="18870_좌표 압축 Coverage Results" MODIFIED="1654673276224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/정렬" />
+    <SUITE FILE_PATH="coverage/CodingTest$prac.coverage" NAME="prac Coverage Results" MODIFIED="1656306856581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
     <SUITE FILE_PATH="coverage/CodeTest$10952_A_B___5.coverage" NAME="10952_A+B - 5 Coverage Results" MODIFIED="1653992337257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/반복문" />
     <SUITE FILE_PATH="coverage/CodeTest$7579_.coverage" NAME="7579_토마토 Coverage Results" MODIFIED="1654836892330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
     <SUITE FILE_PATH="coverage/CodeTest$10809__.coverage" NAME="10809_알파벳 찾기 Coverage Results" MODIFIED="1654056333646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
@@ -282,6 +285,7 @@
     <SUITE FILE_PATH="coverage/CodeTest$1157__.coverage" NAME="1157_단어 공부 Coverage Results" MODIFIED="1654057171346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
     <SUITE FILE_PATH="coverage/CodingTest$1764_.coverage" NAME="1764_듣보잡 Coverage Results" MODIFIED="1656216971894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵" />
     <SUITE FILE_PATH="coverage/CodingTest$11478_____.coverage" NAME="11478_서로 다른 부분 문자열의 개수 Coverage Results" MODIFIED="1656218653822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/집합과 맵" />
+    <SUITE FILE_PATH="coverage/CodingTest$1004__.coverage" NAME="1004_어린 왕자 Coverage Results" MODIFIED="1656306496649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
     <SUITE FILE_PATH="coverage/CodeTest$2562_.coverage" NAME="2562_최댓값 Coverage Results" MODIFIED="1653997117844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/1차원 배열" />
     <SUITE FILE_PATH="coverage/CodeTest$10989___3.coverage" NAME="10989_수 정렬하기 3 Coverage Results" MODIFIED="1654664605866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/정렬" />
     <SUITE FILE_PATH="coverage/CodeTest$24479________1.coverage" NAME="24479_알고리즘 수업 - 깊이 우선 탐색 1 Coverage Results" MODIFIED="1654760501376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
@@ -289,6 +293,8 @@
     <SUITE FILE_PATH="coverage/CodeTest$2178__.coverage" NAME="2178_미로 탐색 Coverage Results" MODIFIED="1654782520427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
     <SUITE FILE_PATH="coverage/CodeTest$lv2_.coverage" NAME="lv2_기능개발 Coverage Results" MODIFIED="1656165114255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/Lv2" />
     <SUITE FILE_PATH="coverage/CodeTest$10172_.coverage" NAME="10172_개 Coverage Results" MODIFIED="1654973625932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/입출력과 사칙연산" />
+    <SUITE FILE_PATH="coverage/CodingTest$1358_.coverage" NAME="1358_하키 Coverage Results" MODIFIED="1656302239188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
+    <SUITE FILE_PATH="coverage/CodingTest$1002_.coverage" NAME="1002_터렛 Coverage Results" MODIFIED="1656305078672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
     <SUITE FILE_PATH="coverage/CodeTest$2439_____2.coverage" NAME="2439_별 찍기 - 2 Coverage Results" MODIFIED="1653991371070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/반복문" />
     <SUITE FILE_PATH="coverage/CodeTest$1546_.coverage" NAME="1546_평균 Coverage Results" MODIFIED="1653998069243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/1차원 배열" />
     <SUITE FILE_PATH="coverage/CodeTest$2839__.coverage" NAME="2839_설탕 배달 Coverage Results" MODIFIED="1654172235350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기본 수학1" />
@@ -297,11 +303,14 @@
     <SUITE FILE_PATH="coverage/CodeTest$2869___.coverage" NAME="2869_달팽이는 올라가고 싶다 Coverage Results" MODIFIED="1654153497898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기본 수학1" />
     <SUITE FILE_PATH="coverage/CodeTest$lv2___.coverage" NAME="lv2_행렬 테두리 회전하기 Coverage Results" MODIFIED="1655211873341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/Lv2" />
     <SUITE FILE_PATH="coverage/CodeTest$10871_X__.coverage" NAME="10871_X보다 작은 수 Coverage Results" MODIFIED="1653991914255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/반복문" />
+    <SUITE FILE_PATH="coverage/CodingTest$4153_.coverage" NAME="4153_직각삼각형 Coverage Results" MODIFIED="1656299296209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
+    <SUITE FILE_PATH="coverage/CodingTest$1085__.coverage" NAME="1085_직사각형에서 탈출 Coverage Results" MODIFIED="1656298714517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
     <SUITE FILE_PATH="coverage/CodeTest$10872_.coverage" NAME="10872_팩토리얼 Coverage Results" MODIFIED="1654512935350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/재귀" />
     <SUITE FILE_PATH="coverage/CodeTest$1152__.coverage" NAME="1152_단어의 개수 Coverage Results" MODIFIED="1654061905032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
     <SUITE FILE_PATH="coverage/CodeTest$lv2__.coverage" NAME="lv2_짝지어 제거하기 Coverage Results" MODIFIED="1655310736702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/Lv2" />
     <SUITE FILE_PATH="coverage/CodeTest$1436__.coverage" NAME="1436_영화감독 숌 Coverage Results" MODIFIED="1654578285601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/브루트 포스" />
     <SUITE FILE_PATH="coverage/CodeTest$7576_.coverage" NAME="7576_토마토 Coverage Results" MODIFIED="1654835832704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
+    <SUITE FILE_PATH="coverage/CodingTest$3009___.coverage" NAME="3009_네 번째 점 Coverage Results" MODIFIED="1656298987470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
     <SUITE FILE_PATH="coverage/CodeTest$24480________2.coverage" NAME="24480_알고리즘 수업 - 깊이 우선 탐색 2 Coverage Results" MODIFIED="1654761016247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
     <SUITE FILE_PATH="coverage/CodeTest$prac.coverage" NAME="prac Coverage Results" MODIFIED="1654795209426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
     <SUITE FILE_PATH="coverage/CodeTest$24444________1.coverage" NAME="24444_알고리즘 수업 - 너비 우선 탐색 1 Coverage Results" MODIFIED="1654762318278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
@@ -319,6 +328,7 @@
     <SUITE FILE_PATH="coverage/CodeTest$2606_.coverage" NAME="2606_바이러스 Coverage Results" MODIFIED="1654759872299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
     <SUITE FILE_PATH="coverage/CodeTest$7562__.coverage" NAME="7562_나이트의 이동 Coverage Results" MODIFIED="1654794000983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/그래프와 순회" />
     <SUITE FILE_PATH="coverage/CodeTest$11729__.coverage" NAME="11729_하노이의 탑 Coverage Results" MODIFIED="1654523906679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/재귀" />
+    <SUITE FILE_PATH="coverage/CodingTest$3053__.coverage" NAME="3053_택시 기하학 Coverage Results" MODIFIED="1656299659150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기하 1" />
     <SUITE FILE_PATH="coverage/CodeTest$10814__.coverage" NAME="10814_나이순 정렬 Coverage Results" MODIFIED="1654674493317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/정렬" />
     <SUITE FILE_PATH="coverage/CodeTest$1018___.coverage" NAME="1018_체스판 다시 칠하기 Coverage Results" MODIFIED="1654577217167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/브루트 포스" />
     <SUITE FILE_PATH="coverage/CodeTest$4948__.coverage" NAME="4948_베르트랑 공준 Coverage Results" MODIFIED="1654256750610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/기본 수학2" />
