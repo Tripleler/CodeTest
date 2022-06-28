@@ -1,0 +1,6 @@
+# https://www.acmicpc.net/problem/11051
+
+import math
+
+a, b = map(int, input().split())
+print(math.comb(a, b) % 10007)
