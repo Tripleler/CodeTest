@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd4a10b0-782d-4d80-a6c7-1681e5ad71a3" name="Changes" comment="" />
+    <list default="true" id="fd4a10b0-782d-4d80-a6c7-1681e5ad71a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <recent name="D:\git\CodeTest\baekjoon\단계별로 풀어보기\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16139_인간-컴퓨터 상호작용">
+  <component name="RunManager" selected="Python.3003_킹, 퀸, 룩, 비숍, 나이트, 폰">
     <configuration name="11659_구간 합 구하기 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3003_킹, 퀸, 룩, 비숍, 나이트, 폰" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/prac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/단계별로 풀어보기/문자열/3003_킹, 퀸, 룩, 비숍, 나이트, 폰.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3003_킹, 퀸, 룩, 비숍, 나이트, 폰" />
         <item itemvalue="Python.16139_인간-컴퓨터 상호작용" />
         <item itemvalue="Python.2559_수열" />
         <item itemvalue="Python.11659_구간 합 구하기 4" />
         <item itemvalue="Python.1541_잃어버린 괄호" />
-        <item itemvalue="Python.prac" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +246,7 @@
       <workItem from="1659961911770" duration="5154000" />
       <workItem from="1660009684674" duration="7794000" />
       <workItem from="1660388806828" duration="8671000" />
+      <workItem from="1661350859421" duration="708000" />
     </task>
     <servers />
   </component>
