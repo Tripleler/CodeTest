@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="1000_A+B.cs" />
+    <Compile Remove="1001_A-B.cs" />
+    <Compile Remove="1008_나누기.cs" />
+    <Compile Remove="10869_사칙연산.cs" />
+    <Compile Remove="10926_놀람.cs" />
+    <Compile Remove="10998_AxB.cs" />
+    <Compile Remove="2557_Hello World.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1000_A+B.cs" />
+    <None Include="1001_A-B.cs" />
+    <None Include="1008_나누기.cs" />
+    <None Include="10869_사칙연산.cs" />
+    <None Include="10926_놀람.cs" />
+    <None Include="10998_AxB.cs" />
+    <None Include="2557_Hello World.cs" />
+  </ItemGroup>
+
+</Project>
