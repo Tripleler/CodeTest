@@ -33,6 +33,12 @@
     <Compile Remove="입출력과 사칙연산\18108_태국나이.cs" />
     <Compile Remove="입출력과 사칙연산\2557_Hello World.cs" />
     <Compile Remove="입출력과 사칙연산\2588_곱셈.cs" />
+    <Compile Remove="조건문\1330_두 수 비교하기.cs" />
+    <Compile Remove="조건문\14681_사분면 고르기.cs" />
+    <Compile Remove="조건문\2525_오븐 시계.cs" />
+    <Compile Remove="조건문\2753_윤년.cs" />
+    <Compile Remove="조건문\2884_알람 시계.cs" />
+    <Compile Remove="조건문\9498_시험성적.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -52,10 +58,12 @@
     <None Include="입출력과 사칙연산\18108_태국나이.cs" />
     <None Include="입출력과 사칙연산\2557_Hello World.cs" />
     <None Include="입출력과 사칙연산\2588_곱셈.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="NewFolder\" />
+    <None Include="조건문\1330_두 수 비교하기.cs" />
+    <None Include="조건문\14681_사분면 고르기.cs" />
+    <None Include="조건문\2525_오븐 시계.cs" />
+    <None Include="조건문\2753_윤년.cs" />
+    <None Include="조건문\2884_알람 시계.cs" />
+    <None Include="조건문\9498_시험성적.cs" />
   </ItemGroup>
 
 </Project>
