@@ -20,6 +20,18 @@
     <Compile Remove="18108_태국나이.cs" />
     <Compile Remove="2557_Hello World.cs" />
     <Compile Remove="2588_곱셈.cs" />
+    <Compile Remove="반복문\10950_A+B - 3.cs" />
+    <Compile Remove="반복문\10952_A+B - 4.cs" />
+    <Compile Remove="반복문\10952_A+B - 5.cs" />
+    <Compile Remove="반복문\11022_A+B - 8.cs" />
+    <Compile Remove="반복문\15552_빠른 A+B.cs" />
+    <Compile Remove="반복문\2438_별 찍기 - 1.cs" />
+    <Compile Remove="반복문\2439_별 찍기 - 2.cs" />
+    <Compile Remove="반복문\25304_영수증.cs" />
+    <Compile Remove="반복문\25314_코딩은 체육과목입니다.cs" />
+    <Compile Remove="반복문\2739_구구단.cs" />
+    <Compile Remove="반복문\8393_합.cs" />
+    <Compile Remove="반복문\A+B - 7.cs" />
     <Compile Remove="입출력과 사칙연산\1000_A+B.cs" />
     <Compile Remove="입출력과 사칙연산\1001_A-B.cs" />
     <Compile Remove="입출력과 사칙연산\1008_나누기.cs" />
@@ -35,6 +47,7 @@
     <Compile Remove="입출력과 사칙연산\2588_곱셈.cs" />
     <Compile Remove="조건문\1330_두 수 비교하기.cs" />
     <Compile Remove="조건문\14681_사분면 고르기.cs" />
+    <Compile Remove="조건문\2480_주사위 세개.cs" />
     <Compile Remove="조건문\2525_오븐 시계.cs" />
     <Compile Remove="조건문\2753_윤년.cs" />
     <Compile Remove="조건문\2884_알람 시계.cs" />
@@ -42,6 +55,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="반복문\10950_A+B - 3.cs" />
+    <None Include="반복문\10952_A+B - 4.cs" />
+    <None Include="반복문\10952_A+B - 5.cs" />
+    <None Include="반복문\11022_A+B - 8.cs" />
+    <None Include="반복문\15552_빠른 A+B.cs" />
+    <None Include="반복문\2438_별 찍기 - 1.cs" />
+    <None Include="반복문\2439_별 찍기 - 2.cs" />
+    <None Include="반복문\25304_영수증.cs" />
+    <None Include="반복문\25314_코딩은 체육과목입니다.cs" />
+    <None Include="반복문\2739_구구단.cs" />
+    <None Include="반복문\8393_합.cs" />
+    <None Include="반복문\A+B - 7.cs" />
     <None Include="입출력과 사칙연산\1000_A+B.cs" />
   </ItemGroup>
 
@@ -60,6 +85,7 @@
     <None Include="입출력과 사칙연산\2588_곱셈.cs" />
     <None Include="조건문\1330_두 수 비교하기.cs" />
     <None Include="조건문\14681_사분면 고르기.cs" />
+    <None Include="조건문\2480_주사위 세개.cs" />
     <None Include="조건문\2525_오븐 시계.cs" />
     <None Include="조건문\2753_윤년.cs" />
     <None Include="조건문\2884_알람 시계.cs" />
