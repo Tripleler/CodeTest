@@ -19,9 +19,15 @@
     <Compile Remove="11382_꼬마정민.cs" />
     <Compile Remove="18108_태국나이.cs" />
     <Compile Remove="1차원 배열\10807_개수 세기.cs" />
+    <Compile Remove="1차원 배열\10810_공 넣기.cs" />
+    <Compile Remove="1차원 배열\10811_바구니 뒤집기.cs" />
+    <Compile Remove="1차원 배열\10813_공 바꾸기.cs" />
     <Compile Remove="1차원 배열\10818_최소, 최대.cs" />
     <Compile Remove="1차원 배열\10871_X보다 작은 수.cs" />
+    <Compile Remove="1차원 배열\1546_평균.cs" />
     <Compile Remove="1차원 배열\2562_최댓값.cs" />
+    <Compile Remove="1차원 배열\3052_나머지.cs" />
+    <Compile Remove="1차원 배열\5597_과제 안 내신 분.cs" />
     <Compile Remove="2557_Hello World.cs" />
     <Compile Remove="2588_곱셈.cs" />
     <Compile Remove="반복문\10950_A+B - 3.cs" />
@@ -60,9 +66,15 @@
 
   <ItemGroup>
     <None Include="1차원 배열\10807_개수 세기.cs" />
+    <None Include="1차원 배열\10810_공 넣기.cs" />
+    <None Include="1차원 배열\10811_바구니 뒤집기.cs" />
+    <None Include="1차원 배열\10813_공 바꾸기.cs" />
     <None Include="1차원 배열\10818_최소, 최대.cs" />
     <None Include="1차원 배열\10871_X보다 작은 수.cs" />
+    <None Include="1차원 배열\1546_평균.cs" />
     <None Include="1차원 배열\2562_최댓값.cs" />
+    <None Include="1차원 배열\3052_나머지.cs" />
+    <None Include="1차원 배열\5597_과제 안 내신 분.cs" />
     <None Include="반복문\10950_A+B - 3.cs" />
     <None Include="반복문\10952_A+B - 4.cs" />
     <None Include="반복문\10952_A+B - 5.cs" />
