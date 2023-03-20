@@ -67,6 +67,13 @@
     <Compile Remove="심화1\2941_크로아티아 알파벳.cs" />
     <Compile Remove="심화1\3003_체스피스.cs" />
     <Compile Remove="심화1\4344_평균은 넘겠지.cs" />
+    <Compile Remove="약수, 배수와 소수\11653_소인수분해.cs" />
+    <Compile Remove="약수, 배수와 소수\1978_소수 찾기.cs" />
+    <Compile Remove="약수, 배수와 소수\2501_약수 구하기.cs" />
+    <Compile Remove="약수, 배수와 소수\2581_소수.cs" />
+    <Compile Remove="약수, 배수와 소수\5086_배수와 약수.cs" />
+    <Compile Remove="약수, 배수와 소수\9020_골드바흐의 추측.cs" />
+    <Compile Remove="약수, 배수와 소수\9506_약수들의 합.cs" />
     <Compile Remove="입출력과 사칙연산\1000_A+B.cs" />
     <Compile Remove="입출력과 사칙연산\1001_A-B.cs" />
     <Compile Remove="입출력과 사칙연산\1008_나누기.cs" />
@@ -137,6 +144,13 @@
     <None Include="심화1\2941_크로아티아 알파벳.cs" />
     <None Include="심화1\3003_체스피스.cs" />
     <None Include="심화1\4344_평균은 넘겠지.cs" />
+    <None Include="약수, 배수와 소수\11653_소인수분해.cs" />
+    <None Include="약수, 배수와 소수\1978_소수 찾기.cs" />
+    <None Include="약수, 배수와 소수\2501_약수 구하기.cs" />
+    <None Include="약수, 배수와 소수\2581_소수.cs" />
+    <None Include="약수, 배수와 소수\5086_배수와 약수.cs" />
+    <None Include="약수, 배수와 소수\9020_골드바흐의 추측.cs" />
+    <None Include="약수, 배수와 소수\9506_약수들의 합.cs" />
     <None Include="입출력과 사칙연산\1000_A+B.cs" />
   </ItemGroup>
 
