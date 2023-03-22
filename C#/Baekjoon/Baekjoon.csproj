@@ -65,6 +65,12 @@
     <Compile Remove="반복문\2739_구구단.cs" />
     <Compile Remove="반복문\8393_합.cs" />
     <Compile Remove="반복문\A+B - 7.cs" />
+    <Compile Remove="시간 복잡도\24262_알고리즘 수업 - 알고리즘의 수행 시간 1.cs" />
+    <Compile Remove="시간 복잡도\24263_알고리즘 수업 - 알고리즘의 수행 시간 2.cs" />
+    <Compile Remove="시간 복잡도\24264_알고리즘 수업 - 알고리즘의 수행 시간 3.cs" />
+    <Compile Remove="시간 복잡도\24265_알고리즘 수업 - 알고리즘의 수행 시간 4.cs" />
+    <Compile Remove="시간 복잡도\24266_알고리즘 수업 - 알고리즘의 수행 시간 5.cs" />
+    <Compile Remove="시간 복잡도\24267_알고리즘 수업 - 알고리즘의 수행 시간 6.cs" />
     <Compile Remove="심화1\10812_바구니 순서 바꾸기.cs" />
     <Compile Remove="심화1\10988_팰린드롬.cs" />
     <Compile Remove="심화1\1157_단어공부.cs" />
@@ -150,6 +156,12 @@
     <None Include="반복문\2739_구구단.cs" />
     <None Include="반복문\8393_합.cs" />
     <None Include="반복문\A+B - 7.cs" />
+    <None Include="시간 복잡도\24262_알고리즘 수업 - 알고리즘의 수행 시간 1.cs" />
+    <None Include="시간 복잡도\24263_알고리즘 수업 - 알고리즘의 수행 시간 2.cs" />
+    <None Include="시간 복잡도\24264_알고리즘 수업 - 알고리즘의 수행 시간 3.cs" />
+    <None Include="시간 복잡도\24265_알고리즘 수업 - 알고리즘의 수행 시간 4.cs" />
+    <None Include="시간 복잡도\24266_알고리즘 수업 - 알고리즘의 수행 시간 5.cs" />
+    <None Include="시간 복잡도\24267_알고리즘 수업 - 알고리즘의 수행 시간 6.cs" />
     <None Include="심화1\10812_바구니 순서 바꾸기.cs" />
     <None Include="심화1\10988_팰린드롬.cs" />
     <None Include="심화1\1157_단어공부.cs" />
