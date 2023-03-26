@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="0000.cs" />
     <Compile Remove="1000_A+B.cs" />
     <Compile Remove="1001_A-B.cs" />
     <Compile Remove="1008_나누기.cs" />
@@ -108,7 +109,13 @@
     <Compile Remove="입출력과 사칙연산\18108_태국나이.cs" />
     <Compile Remove="입출력과 사칙연산\2557_Hello World.cs" />
     <Compile Remove="입출력과 사칙연산\2588_곱셈.cs" />
+    <Compile Remove="정렬\10814_나이순 정렬.cs" />
     <Compile Remove="정렬\10989_수 정렬하기 3.cs" />
+    <Compile Remove="정렬\11650_좌표 정렬하기.cs" />
+    <Compile Remove="정렬\11651_좌표 정렬하기2.cs" />
+    <Compile Remove="정렬\1181_단어 정렬.cs" />
+    <Compile Remove="정렬\1427_소트인사이드.cs" />
+    <Compile Remove="정렬\2108_통계학.cs" />
     <Compile Remove="정렬\25305_커트라인.cs" />
     <Compile Remove="정렬\2587_대표값2.cs" />
     <Compile Remove="정렬\2750_수 정렬하기.cs" />
@@ -123,6 +130,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="0000.cs" />
     <None Include="1차원 배열\10807_개수 세기.cs" />
     <None Include="1차원 배열\10810_공 넣기.cs" />
     <None Include="1차원 배열\10811_바구니 뒤집기.cs" />
@@ -214,7 +222,13 @@
     <None Include="입출력과 사칙연산\18108_태국나이.cs" />
     <None Include="입출력과 사칙연산\2557_Hello World.cs" />
     <None Include="입출력과 사칙연산\2588_곱셈.cs" />
+    <None Include="정렬\10814_나이순 정렬.cs" />
     <None Include="정렬\10989_수 정렬하기 3.cs" />
+    <None Include="정렬\11650_좌표 정렬하기.cs" />
+    <None Include="정렬\11651_좌표 정렬하기2.cs" />
+    <None Include="정렬\1181_단어 정렬.cs" />
+    <None Include="정렬\1427_소트인사이드.cs" />
+    <None Include="정렬\2108_통계학.cs" />
     <None Include="정렬\25305_커트라인.cs" />
     <None Include="정렬\2587_대표값2.cs" />
     <None Include="정렬\2750_수 정렬하기.cs" />
