@@ -115,6 +115,7 @@
     <Compile Remove="정렬\11651_좌표 정렬하기2.cs" />
     <Compile Remove="정렬\1181_단어 정렬.cs" />
     <Compile Remove="정렬\1427_소트인사이드.cs" />
+    <Compile Remove="정렬\18870_좌표 압축.cs" />
     <Compile Remove="정렬\2108_통계학.cs" />
     <Compile Remove="정렬\25305_커트라인.cs" />
     <Compile Remove="정렬\2587_대표값2.cs" />
@@ -127,6 +128,9 @@
     <Compile Remove="조건문\2753_윤년.cs" />
     <Compile Remove="조건문\2884_알람 시계.cs" />
     <Compile Remove="조건문\9498_시험성적.cs" />
+    <Compile Remove="집합과 맵\10815_숫자 카드.cs" />
+    <Compile Remove="집합과 맵\1620_포켓몬.cs" />
+    <Compile Remove="집합과 맵\실패%2914425_문자열 집합.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -228,6 +232,7 @@
     <None Include="정렬\11651_좌표 정렬하기2.cs" />
     <None Include="정렬\1181_단어 정렬.cs" />
     <None Include="정렬\1427_소트인사이드.cs" />
+    <None Include="정렬\18870_좌표 압축.cs" />
     <None Include="정렬\2108_통계학.cs" />
     <None Include="정렬\25305_커트라인.cs" />
     <None Include="정렬\2587_대표값2.cs" />
@@ -240,6 +245,9 @@
     <None Include="조건문\2753_윤년.cs" />
     <None Include="조건문\2884_알람 시계.cs" />
     <None Include="조건문\9498_시험성적.cs" />
+    <None Include="집합과 맵\10815_숫자 카드.cs" />
+    <None Include="집합과 맵\1620_포켓몬.cs" />
+    <None Include="집합과 맵\실패)14425_문자열 집합.cs" />
   </ItemGroup>
 
 </Project>
