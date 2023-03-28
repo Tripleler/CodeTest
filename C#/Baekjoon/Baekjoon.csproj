@@ -129,8 +129,11 @@
     <Compile Remove="조건문\2884_알람 시계.cs" />
     <Compile Remove="조건문\9498_시험성적.cs" />
     <Compile Remove="집합과 맵\10815_숫자 카드.cs" />
+    <Compile Remove="집합과 맵\10816_숫자 카드2.cs" />
+    <Compile Remove="집합과 맵\11478_부분 문자열.cs" />
+    <Compile Remove="집합과 맵\1269_대칭 차집합.cs" />
     <Compile Remove="집합과 맵\1620_포켓몬.cs" />
-    <Compile Remove="집합과 맵\실패%2914425_문자열 집합.cs" />
+    <Compile Remove="집합과 맵\1764_듣보잡.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -246,8 +249,11 @@
     <None Include="조건문\2884_알람 시계.cs" />
     <None Include="조건문\9498_시험성적.cs" />
     <None Include="집합과 맵\10815_숫자 카드.cs" />
+    <None Include="집합과 맵\10816_숫자 카드2.cs" />
+    <None Include="집합과 맵\11478_부분 문자열.cs" />
+    <None Include="집합과 맵\1269_대칭 차집합.cs" />
     <None Include="집합과 맵\1620_포켓몬.cs" />
-    <None Include="집합과 맵\실패)14425_문자열 집합.cs" />
+    <None Include="집합과 맵\1764_듣보잡.cs" />
   </ItemGroup>
 
 </Project>
