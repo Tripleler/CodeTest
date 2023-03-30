@@ -72,6 +72,10 @@
     <Compile Remove="브루트 포스\2231_분해합.cs" />
     <Compile Remove="브루트 포스\2798_블랙잭.cs" />
     <Compile Remove="브루트 포스\2839_설탕 배달.cs" />
+    <Compile Remove="스택\10773_제로.cs" />
+    <Compile Remove="스택\10828_스택.cs" />
+    <Compile Remove="스택\4949_균형잡힌 세상.cs" />
+    <Compile Remove="스택\9012_괄호.cs" />
     <Compile Remove="시간 복잡도\24262_알고리즘 수업 - 알고리즘의 수행 시간 1.cs" />
     <Compile Remove="시간 복잡도\24263_알고리즘 수업 - 알고리즘의 수행 시간 2.cs" />
     <Compile Remove="시간 복잡도\24264_알고리즘 수업 - 알고리즘의 수행 시간 3.cs" />
@@ -109,6 +113,7 @@
     <Compile Remove="입출력과 사칙연산\18108_태국나이.cs" />
     <Compile Remove="입출력과 사칙연산\2557_Hello World.cs" />
     <Compile Remove="입출력과 사칙연산\2588_곱셈.cs" />
+    <Compile Remove="정규식 연습\4949_균형잡힌 세상.cs" />
     <Compile Remove="정렬\10814_나이순 정렬.cs" />
     <Compile Remove="정렬\10989_수 정렬하기 3.cs" />
     <Compile Remove="정렬\11650_좌표 정렬하기.cs" />
@@ -132,6 +137,7 @@
     <Compile Remove="집합과 맵\10816_숫자 카드2.cs" />
     <Compile Remove="집합과 맵\11478_부분 문자열.cs" />
     <Compile Remove="집합과 맵\1269_대칭 차집합.cs" />
+    <Compile Remove="집합과 맵\14425_문자열 집합.cs" />
     <Compile Remove="집합과 맵\1620_포켓몬.cs" />
     <Compile Remove="집합과 맵\1764_듣보잡.cs" />
   </ItemGroup>
@@ -189,6 +195,10 @@
     <None Include="브루트 포스\2231_분해합.cs" />
     <None Include="브루트 포스\2798_블랙잭.cs" />
     <None Include="브루트 포스\2839_설탕 배달.cs" />
+    <None Include="스택\10773_제로.cs" />
+    <None Include="스택\10828_스택.cs" />
+    <None Include="스택\4949_균형잡힌 세상.cs" />
+    <None Include="스택\9012_괄호.cs" />
     <None Include="시간 복잡도\24262_알고리즘 수업 - 알고리즘의 수행 시간 1.cs" />
     <None Include="시간 복잡도\24263_알고리즘 수업 - 알고리즘의 수행 시간 2.cs" />
     <None Include="시간 복잡도\24264_알고리즘 수업 - 알고리즘의 수행 시간 3.cs" />
@@ -229,6 +239,7 @@
     <None Include="입출력과 사칙연산\18108_태국나이.cs" />
     <None Include="입출력과 사칙연산\2557_Hello World.cs" />
     <None Include="입출력과 사칙연산\2588_곱셈.cs" />
+    <None Include="정규식 연습\4949_균형잡힌 세상.cs" />
     <None Include="정렬\10814_나이순 정렬.cs" />
     <None Include="정렬\10989_수 정렬하기 3.cs" />
     <None Include="정렬\11650_좌표 정렬하기.cs" />
@@ -252,6 +263,7 @@
     <None Include="집합과 맵\10816_숫자 카드2.cs" />
     <None Include="집합과 맵\11478_부분 문자열.cs" />
     <None Include="집합과 맵\1269_대칭 차집합.cs" />
+    <None Include="집합과 맵\14425_문자열 집합.cs" />
     <None Include="집합과 맵\1620_포켓몬.cs" />
     <None Include="집합과 맵\1764_듣보잡.cs" />
   </ItemGroup>
