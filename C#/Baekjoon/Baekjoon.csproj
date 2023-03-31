@@ -74,6 +74,7 @@
     <Compile Remove="브루트 포스\2839_설탕 배달.cs" />
     <Compile Remove="스택\10773_제로.cs" />
     <Compile Remove="스택\10828_스택.cs" />
+    <Compile Remove="스택\1874_스택 수열.cs" />
     <Compile Remove="스택\4949_균형잡힌 세상.cs" />
     <Compile Remove="스택\9012_괄호.cs" />
     <Compile Remove="시간 복잡도\24262_알고리즘 수업 - 알고리즘의 수행 시간 1.cs" />
@@ -140,6 +141,9 @@
     <Compile Remove="집합과 맵\14425_문자열 집합.cs" />
     <Compile Remove="집합과 맵\1620_포켓몬.cs" />
     <Compile Remove="집합과 맵\1764_듣보잡.cs" />
+    <Compile Remove="큐, 덱\11866_요세푸스 문제.cs" />
+    <Compile Remove="큐, 덱\18258_큐 2.cs" />
+    <Compile Remove="큐, 덱\2164_카드 2.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -197,6 +201,7 @@
     <None Include="브루트 포스\2839_설탕 배달.cs" />
     <None Include="스택\10773_제로.cs" />
     <None Include="스택\10828_스택.cs" />
+    <None Include="스택\1874_스택 수열.cs" />
     <None Include="스택\4949_균형잡힌 세상.cs" />
     <None Include="스택\9012_괄호.cs" />
     <None Include="시간 복잡도\24262_알고리즘 수업 - 알고리즘의 수행 시간 1.cs" />
@@ -266,6 +271,9 @@
     <None Include="집합과 맵\14425_문자열 집합.cs" />
     <None Include="집합과 맵\1620_포켓몬.cs" />
     <None Include="집합과 맵\1764_듣보잡.cs" />
+    <None Include="큐, 덱\11866_요세푸스 문제.cs" />
+    <None Include="큐, 덱\18258_큐 2.cs" />
+    <None Include="큐, 덱\2164_카드 2.cs" />
   </ItemGroup>
 
 </Project>
